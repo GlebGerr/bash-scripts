@@ -1,0 +1,2 @@
+Копия файла /c/Users/Professional/Downloads/BS/Backups/backup_log_20250109.txt сохранена как /c/Users/Professional/Downloads/BS/Backups/backup_20250109/backup_log_20250109_20250109.txt
+Резервное копирование завершено. Копировано файлов: 1
